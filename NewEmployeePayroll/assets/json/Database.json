@@ -1,0 +1,40 @@
+{
+    "employee": [
+      {
+        "name": "Dipesh Chandekar",
+        "gender": "Male",
+        "departMent": [
+          "HR","Manager"
+        ],
+        "salary": "1000000",
+        "startDate": "24 Sept 2021",
+        "notes": "",
+        "id": 1,
+        "profileUrl": "../assets/profile-image/profile_5.png"
+      },
+      {
+        "name": "Mr Haltung",
+        "gender": "Male",
+        "departMent": [
+          "Enginner","Developer"
+        ],
+        "salary": "500000",
+        "startDate": "26 Sept 2021",
+        "notes": "",
+        "id": 2,
+        "profileUrl": "../assets/profile-image/profile_3.png"
+      },
+      {
+        "name": "Mithilesh Chandekar",
+        "gender": "Male",
+        "departMent": [
+          "Steno Typist","Graduate"
+        ],
+        "salary": "400000",
+        "startDate": "07 Sept 2021",
+        "notes": "",
+        "id": 3,
+        "profileUrl": "../assets/profile-image/profile_5.png"
+      }
+    ]
+  }
